@@ -1,1 +1,4 @@
-myvenv
+myenv
+settings.ini
+data
+__pycache__
